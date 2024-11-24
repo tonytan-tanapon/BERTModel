@@ -1,0 +1,55 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debugging
+*.log
+*.out
+*.err
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Model or dataset files
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.tar.gz
+*.zip
+*.csv
+*.tsv
+
+# Machine Learning tools
+*.tensorboard/
