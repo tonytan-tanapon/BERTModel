@@ -8,3 +8,9 @@ pandas==2.1.2
 
 
 pip install -r requirements.txt
+pip install transformers
+pip install torch
+pip install  flask gunicorn
+pip install -U scikit-learn
+
+pip freeze > requirements.txt
